@@ -357,8 +357,7 @@ Math.round(0.49);
 
 #### `Math.max()` / `Math.min()`
 
-These two methods accept a number of arguments and return the lowest and highest
-constituent, respectively:
+letconstituent, respectively:
 
 ```js
 Math.max(1, 2, 3, 4, 5);
